@@ -1,0 +1,9 @@
+{
+  "short_name": "port",
+  "name": "My Portfolio",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#abb2bf",
+  "background_color": "#282c34"
+}
