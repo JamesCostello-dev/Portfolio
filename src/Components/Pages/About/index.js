@@ -2,10 +2,13 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 
 const About = () => {
+  const aboutImage = require("../../../img/about.png").default;
+
   return (
     <div>
       <h1>About</h1>
       <Card>
+        <Card.Img variant="left" src={aboutImage}></Card.Img>
         <Card.Body>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est
           aspernatur, dolorum quas iste, dolores cumque vitae dolor provident

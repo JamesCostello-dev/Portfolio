@@ -113,16 +113,19 @@ div {
 }
 
 div.card {
+  display: flex;
   margin: 0 auto;
   width: 50em;
   padding: 1rem 1rem 20px;
   background-color: var(--black);
   box-shadow: 0 7px 14px black, 0 5px 5px black;
   border: 1px solid transparent;
+  padding-left: 20px;
+  flex-grow: 1;
 }
 
-div.card-div {
-  padding-top: 25px;
+div.card-body {
+  padding-top: 90px;
   padding-left: 20px;
 }
 
