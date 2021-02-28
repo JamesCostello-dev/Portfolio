@@ -205,3 +205,8 @@ footer ul li {
   font-size: 35px;
   padding: 1rem;
 }
+
+p.error-msg {
+  display: flex;
+  justify-content: center;
+}
