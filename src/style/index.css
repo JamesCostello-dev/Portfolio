@@ -1,6 +1,6 @@
 main {
   margin: 0 auto;
-  max-width: 90%;
+  max-width: 80%;
   padding: 50px 30px;
 }
 
@@ -47,7 +47,7 @@ h6 {
 
 h1 {
   font-size: 2.25rem;
-  padding-top: 150px;
+  padding-top: 0px;
   color: var(--yellow);
 }
 
@@ -67,20 +67,30 @@ h6 {
   font-size: 1rem;
 }
 
+header {
+  display: flex;
+  width: 70%;
+  align-items: center;
+  font-size: 18px;
+}
+
 ul.nav.nav-pages {
-  position: fixed;
   top: 0;
-  left: 0;
+  right: 0;
+  position: fixed;
   width: 30%;
   box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: space-between;
   z-index: 1000;
-  padding: 10px 20px;
   background-color: var(--black);
   font-size: 1.5em;
   list-style-type: none;
+}
+
+li {
+  list-style: none;
 }
 
 a {
