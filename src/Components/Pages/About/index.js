@@ -8,8 +8,8 @@ const About = () => {
     <div>
       <h1>About</h1>
       <Card>
-        <Card.Img variant="left" src={aboutImage}></Card.Img>
-        <Card.Body>
+        <Card.Img variant="left" src={aboutImage} />
+        <Card.Body className="about-body">
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est
           aspernatur, dolorum quas iste, dolores cumque vitae dolor provident
           odit blanditiis quidem fugiat, cupiditate voluptate repellat ipsam

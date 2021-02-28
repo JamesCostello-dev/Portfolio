@@ -115,6 +115,7 @@ div {
 div.card {
   display: flex;
   margin: 0 auto;
+  margin-bottom: 50px;
   width: 50em;
   padding: 1rem 1rem 20px;
   background-color: var(--black);
@@ -125,8 +126,15 @@ div.card {
 }
 
 div.card-body {
-  padding-top: 90px;
   padding-left: 20px;
+}
+
+div.about-body {
+  padding-top: 90px;
+}
+
+div.port-body {
+  padding-top: 20px;
 }
 
 div h1 {
@@ -143,7 +151,7 @@ form {
 }
 
 .form-text {
-  padding-left: 100px;
+  padding-left: 95px;
   color: var(--grey);
 }
 
