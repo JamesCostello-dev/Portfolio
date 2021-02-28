@@ -3,6 +3,7 @@ import Nav from "../Nav";
 import About from "../../Pages/About";
 import Portfolio from "../../Pages/Portfolio";
 import Contact from "../../Pages/Contact";
+import Footer from "../../Margin/Footer";
 
 const Header = () => {
   const [currentPage, handlePageChange] = useState("About");
@@ -20,7 +21,7 @@ const Header = () => {
     }
   };
   return (
-    <div>
+    <div className="main-container">
       <div>
         <header>
           <h2>James Costello</h2>
@@ -30,6 +31,7 @@ const Header = () => {
       <main>
         <div>{renderPage(currentPage)}</div>
       </main>
+      <Footer />
     </div>
   );
 };
