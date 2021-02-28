@@ -1,7 +1,7 @@
 import React from "react";
 
 const Nav = (props) => {
-  const pages = ["About", "Projects", "Contact"];
+  const pages = ["About", "Portfolio", "Contact"];
 
   return (
     <ul className="nav nav-pages">

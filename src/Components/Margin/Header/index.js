@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Nav from "../Nav";
 import About from "../../Pages/About";
-import Projects from "../../Pages/Projects";
+import Portfolio from "../../Pages/Portfolio";
 import Contact from "../../Pages/Contact";
 
 const Header = () => {
@@ -11,8 +11,8 @@ const Header = () => {
     switch (currentPage) {
       case "About":
         return <About />;
-      case "Projects":
-        return <Projects />;
+      case "Portfolio":
+        return <Portfolio />;
       case "Contact":
         return <Contact />;
       default:
@@ -23,7 +23,7 @@ const Header = () => {
     <div>
       <div>
         <header>
-          <h1>James Costello</h1>
+          <h2>James Costello</h2>
           <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
         </header>
       </div>

@@ -51,6 +51,10 @@ h1 {
   color: var(--yellow);
 }
 
+h2 {
+  font-size: 2rem;
+}
+
 h3 {
   font-size: 1.75rem;
 }
@@ -72,7 +76,6 @@ header {
   padding-left: 5%;
   width: 100%;
   align-items: center;
-  font-size: 1.5;
 }
 
 ul.nav.nav-pages {
@@ -115,6 +118,10 @@ div.card {
   background-color: var(--black);
   box-shadow: 0 7px 14px black, 0 5px 5px black;
   border: 1px solid transparent;
+}
+
+div.card-div {
+  padding-top: 25px;
 }
 
 div h1 {
