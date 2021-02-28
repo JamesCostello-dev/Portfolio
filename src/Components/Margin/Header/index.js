@@ -3,6 +3,7 @@ import Nav from "../Nav";
 import About from "../../Pages/About";
 import Portfolio from "../../Pages/Portfolio";
 import Contact from "../../Pages/Contact";
+import Resume from "../../Pages/Resume";
 import Footer from "../../Margin/Footer";
 
 const Header = () => {
@@ -16,6 +17,8 @@ const Header = () => {
         return <Portfolio />;
       case "Contact":
         return <Contact />;
+      case "Resume":
+        return <Resume />;
       default:
         return <About />;
     }

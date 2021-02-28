@@ -82,8 +82,8 @@ header {
 ul.nav.nav-pages {
   top: 0;
   right: 0;
-  width: 40%;
-  padding-right: 17%;
+  width: 50%;
+  padding-right: 15%;
   position: absolute;
   box-sizing: border-box;
   display: flex;
