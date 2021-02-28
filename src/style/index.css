@@ -1,6 +1,6 @@
 main {
   margin: 0 auto;
-  max-width: 80%;
+  max-width: 90%;
   padding: 50px 30px;
 }
 
@@ -69,16 +69,18 @@ h6 {
 
 header {
   display: flex;
-  width: 70%;
+  padding-left: 5%;
+  width: 100%;
   align-items: center;
-  font-size: 18px;
+  font-size: 1.5;
 }
 
 ul.nav.nav-pages {
   top: 0;
   right: 0;
+  width: 40%;
+  padding-right: 17%;
   position: fixed;
-  width: 30%;
   box-sizing: border-box;
   display: flex;
   align-items: center;

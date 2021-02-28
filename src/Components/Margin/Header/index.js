@@ -23,7 +23,7 @@ const Header = () => {
     <div>
       <div>
         <header>
-          <h3>James Costello</h3>
+          <h1>James Costello</h1>
           <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
         </header>
       </div>
