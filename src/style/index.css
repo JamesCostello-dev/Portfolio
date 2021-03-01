@@ -220,3 +220,27 @@ h2.download {
   display: flex;
   justify-content: center;
 }
+
+@media (max-width: 908px) {
+  header {
+    display: block;
+  }
+
+  ul.nav.nav-pages {
+    display: block;
+    width: 100%;
+  }
+
+  h1 {
+    padding-top: 50px;
+  }
+
+  div.card {
+    width: 100%;
+    display: block;
+  }
+
+  img.card-img-left {
+    width: 100%;
+  }
+}
