@@ -12,9 +12,9 @@ const Portfolio = () => {
 
   return (
     <div>
-      <h1>Portfolio</h1>
       <div className="card-container">
         <div className="card-div">
+          <h1>Photo Portfolio</h1>
           <Card>
             <Card.Img variant="left" src={spaImage} />
             <Card.Body className="port-body">
@@ -44,6 +44,7 @@ const Portfolio = () => {
           </Card>
         </div>
         <div className="card-div">
+          <h1>Budget Tracker</h1>
           <Card>
             <Card.Img variant="left" src={pwaImage} />
             <Card.Body className="port-body">
@@ -70,6 +71,7 @@ const Portfolio = () => {
           </Card>
         </div>
         <div className="card-div">
+          <h1>Food Festival</h1>
           <Card>
             <Card.Img variant="left" src={foodImage} />
             <Card.Body className="port-body">
@@ -99,6 +101,7 @@ const Portfolio = () => {
           </Card>
         </div>
         <div className="card-div">
+          <h1>Git it Done</h1>
           <Card>
             <Card.Img variant="left" src={gitImage} />
             <Card.Body className="port-body">
@@ -128,6 +131,7 @@ const Portfolio = () => {
           </Card>
         </div>
         <div className="card-div">
+          <h1>Work Day Scheduler</h1>
           <Card>
             <Card.Img variant="left" src={scheduleImage} />
             <Card.Body className="port-body">
@@ -157,6 +161,7 @@ const Portfolio = () => {
           </Card>
         </div>
         <div className="card-div">
+          <h1>Run Buddy</h1>
           <Card>
             <Card.Img variant="left" src={runImage} />
             <Card.Body className="port-body">

@@ -1,6 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import ListGroup from "react-bootstrap/ListGroup";
+import { FaDownload } from "react-icons/fa";
 
 const Home = () => {
   const resume = require("../../../assets/resume/resume.pdf").default;
@@ -46,7 +47,7 @@ const Home = () => {
       </Card>
       <h2 className="download">
         <a href={resume} download>
-          Download
+          <FaDownload />
         </a>
       </h2>
     </div>
