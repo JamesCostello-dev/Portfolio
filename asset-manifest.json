@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/expert-train/static/css/main.9ea79984.chunk.css",
-    "main.js": "/expert-train/static/js/main.73f84b44.chunk.js",
-    "main.js.map": "/expert-train/static/js/main.73f84b44.chunk.js.map",
+    "main.css": "/expert-train/static/css/main.ffc9ca9d.chunk.css",
+    "main.js": "/expert-train/static/js/main.7bed88fc.chunk.js",
+    "main.js.map": "/expert-train/static/js/main.7bed88fc.chunk.js.map",
     "runtime-main.js": "/expert-train/static/js/runtime-main.0f09482e.js",
     "runtime-main.js.map": "/expert-train/static/js/runtime-main.0f09482e.js.map",
     "static/js/2.04c8df1b.chunk.js": "/expert-train/static/js/2.04c8df1b.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/expert-train/index.html",
     "service-worker.js": "/expert-train/service-worker.js",
     "service-worker.js.map": "/expert-train/service-worker.js.map",
-    "static/css/main.9ea79984.chunk.css.map": "/expert-train/static/css/main.9ea79984.chunk.css.map",
+    "static/css/main.ffc9ca9d.chunk.css.map": "/expert-train/static/css/main.ffc9ca9d.chunk.css.map",
     "static/js/2.04c8df1b.chunk.js.LICENSE.txt": "/expert-train/static/js/2.04c8df1b.chunk.js.LICENSE.txt",
     "static/media/about.png": "/expert-train/static/media/about.943c11f9.png",
     "static/media/food.png": "/expert-train/static/media/food.0810aaed.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.0f09482e.js",
     "static/js/2.04c8df1b.chunk.js",
-    "static/css/main.9ea79984.chunk.css",
-    "static/js/main.73f84b44.chunk.js"
+    "static/css/main.ffc9ca9d.chunk.css",
+    "static/js/main.7bed88fc.chunk.js"
   ]
 }
