@@ -153,6 +153,7 @@ form {
 .form-text {
   padding-left: 95px;
   color: var(--grey);
+  display: none;
 }
 
 input {
@@ -242,5 +243,14 @@ h2.download {
 
   img.card-img-left {
     width: 100%;
+  }
+
+  form {
+    display: block;
+    width: 100%;
+  }
+
+  .form-text {
+    display: none;
   }
 }

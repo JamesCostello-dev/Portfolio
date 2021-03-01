@@ -45,6 +45,7 @@ const Contact = () => {
           <input
             type="text"
             name="name"
+            placeholder="Full Name"
             defaultValue={name}
             onBlur={handleChange}
           />
@@ -54,6 +55,7 @@ const Contact = () => {
           <input
             type="text"
             name="email"
+            placeholder="Email"
             defaultValue={email}
             onBlur={handleChange}
           />
@@ -63,6 +65,7 @@ const Contact = () => {
           <textarea
             name="message"
             rows="5"
+            placeholder="Message"
             defaultValue={message}
             onBlur={handleChange}
           ></textarea>
