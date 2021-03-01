@@ -21,7 +21,7 @@ Reactjs, React-bootstrap, React-Icons, HTML, CSS, Javascript/JSX
 
 ## Media
 
-![image](https://user-images.githubusercontent.com/28774706/109445472-e673cb80-79fc-11eb-96dc-d08bcc92de74.png))
+<img width="1671" alt="portfolio" src="https://user-images.githubusercontent.com/28774706/109449296-4d957e00-7a05-11eb-8d8a-42e25f6ffd76.png">
 
 ## Contributions
 
