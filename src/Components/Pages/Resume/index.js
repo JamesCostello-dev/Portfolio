@@ -38,9 +38,9 @@ const Home = () => {
           <Card style={{ width: "18rem" }}>
             <ListGroup variant="flush">
               <ListGroup.Item>OOP</ListGroup.Item>
-              <ListGroup.Item>API</ListGroup.Item>
-              <ListGroup.Item>SPA</ListGroup.Item>
-              <ListGroup.Item>PWA</ListGroup.Item>
+              <ListGroup.Item>API's</ListGroup.Item>
+              <ListGroup.Item>SPA's</ListGroup.Item>
+              <ListGroup.Item>PWA's</ListGroup.Item>
             </ListGroup>
           </Card>
         </div>
