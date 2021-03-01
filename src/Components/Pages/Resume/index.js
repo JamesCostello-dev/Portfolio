@@ -10,7 +10,7 @@ const Home = () => {
 
   return (
     <div>
-      <Card className="skill-card">
+      <div className="skills">
         <div>
           <h1>Front End</h1>
           <Card style={{ width: "18rem" }}>
@@ -44,12 +44,14 @@ const Home = () => {
             </ListGroup>
           </Card>
         </div>
-      </Card>
-      <h2 className="download">
-        <a href={resume} download>
-          <FaDownload />
-        </a>
-      </h2>
+      </div>
+      <div className="download">
+        <h2>
+          <a href={resume} download>
+            <FaDownload />
+          </a>
+        </h2>
+      </div>
     </div>
   );
 };

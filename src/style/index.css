@@ -212,12 +212,14 @@ p.error-msg {
   justify-content: center;
 }
 
-div.skill-card.card {
-  border: none;
-  box-shadow: none;
+div.skills {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
 }
 
-h2.download {
+div.download {
   display: flex;
   justify-content: center;
 }
@@ -252,5 +254,10 @@ h2.download {
 
   .form-text {
     display: none;
+  }
+
+  div.skills {
+    width: 100%;
+    display: block;
   }
 }
