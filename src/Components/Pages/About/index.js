@@ -2,7 +2,7 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 
 const About = () => {
-  const aboutImage = require("../../../img/about.png").default;
+  const aboutImage = require("../../../assets/img/about.png").default;
 
   return (
     <div>

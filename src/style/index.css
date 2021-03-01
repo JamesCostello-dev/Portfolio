@@ -210,3 +210,13 @@ p.error-msg {
   display: flex;
   justify-content: center;
 }
+
+div.skill-card.card {
+  border: none;
+  box-shadow: none;
+}
+
+h2.download {
+  display: flex;
+  justify-content: center;
+}

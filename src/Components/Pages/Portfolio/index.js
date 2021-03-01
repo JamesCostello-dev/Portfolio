@@ -3,12 +3,12 @@ import Card from "react-bootstrap/Card";
 import { FaGithub, FaRocket } from "react-icons/fa";
 
 const Portfolio = () => {
-  const spaImage = require("../../../img/spa.png").default;
-  const pwaImage = require("../../../img/pwa.png").default;
-  const foodImage = require("../../../img/food.png").default;
-  const scheduleImage = require("../../../img/schedule.png").default;
-  const gitImage = require("../../../img/git.png").default;
-  const runImage = require("../../../img/run.png").default;
+  const spaImage = require("../../../assets/img/spa.png").default;
+  const pwaImage = require("../../../assets/img/pwa.png").default;
+  const foodImage = require("../../../assets/img/food.png").default;
+  const scheduleImage = require("../../../assets/img/schedule.png").default;
+  const gitImage = require("../../../assets/img/git.png").default;
+  const runImage = require("../../../assets/img/run.png").default;
 
   return (
     <div>
