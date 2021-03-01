@@ -2,7 +2,7 @@
 
 ## Description
 
-SPA portolfio application using React.js
+Portfolio SPA using React.js
 
 ## Table of Contents:
 
