@@ -3,7 +3,8 @@ import Card from "react-bootstrap/Card";
 import { FaGithub, FaRocket } from "react-icons/fa";
 
 const Portfolio = () => {
-  const spaImage = require("../../../assets/img/spa.png").default;
+  const movieImage = require("../../../assets/img/movieSearch.png").default; 
+//  const spaImage = require("../../../assets/img/spa.png").default;
   const pwaImage = require("../../../assets/img/pwa.png").default;
   const foodImage = require("../../../assets/img/food.png").default;
   const scheduleImage = require("../../../assets/img/schedule.png").default;
@@ -16,7 +17,7 @@ const Portfolio = () => {
         <div className="card-div">
           <h1>Photo Portfolio</h1>
           <Card>
-            <Card.Img variant="left" src={spaImage} />
+            <Card.Img variant="left" src={movieImage} />
             <Card.Body className="port-body">
               Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum
               facilis deleniti tempora nostrum vero vel aspernatur consequuntur
@@ -25,7 +26,7 @@ const Portfolio = () => {
             </Card.Body>
             <ul>
               <a
-                href="https://github.com/JamesCostello-dev/supreme-octo-telegram"
+                href="https://github.com/JamesCostello-dev/congenial-memory"
                 target="blank"
               >
                 <li>
@@ -33,7 +34,7 @@ const Portfolio = () => {
                 </li>
               </a>
               <a
-                href="https://jamescostello-dev.github.io/supreme-octo-telegram/"
+                href="https://quiet-hamlet-24216.herokuapp.com/"
                 target="blank"
               >
                 <li>
