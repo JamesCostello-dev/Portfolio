@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/expert-train/static/css/main.2f1a0d28.chunk.css",
-    "main.js": "/expert-train/static/js/main.3147d53d.chunk.js",
-    "main.js.map": "/expert-train/static/js/main.3147d53d.chunk.js.map",
+    "main.js": "/expert-train/static/js/main.5272b649.chunk.js",
+    "main.js.map": "/expert-train/static/js/main.5272b649.chunk.js.map",
     "runtime-main.js": "/expert-train/static/js/runtime-main.0f09482e.js",
     "runtime-main.js.map": "/expert-train/static/js/runtime-main.0f09482e.js.map",
     "static/js/2.04c8df1b.chunk.js": "/expert-train/static/js/2.04c8df1b.chunk.js",
@@ -17,7 +17,6 @@
     "static/media/about.png": "/expert-train/static/media/about.943c11f9.png",
     "static/media/food.png": "/expert-train/static/media/food.0810aaed.png",
     "static/media/git.png": "/expert-train/static/media/git.c0fd47aa.png",
-    "static/media/movieSearch.png": "/expert-train/static/media/movieSearch.b532200c.png",
     "static/media/pwa.png": "/expert-train/static/media/pwa.5c327896.png",
     "static/media/resume.pdf": "/expert-train/static/media/resume.560e8273.pdf",
     "static/media/run.png": "/expert-train/static/media/run.e562bdd8.png",
@@ -27,6 +26,6 @@
     "static/js/runtime-main.0f09482e.js",
     "static/js/2.04c8df1b.chunk.js",
     "static/css/main.2f1a0d28.chunk.css",
-    "static/js/main.3147d53d.chunk.js"
+    "static/js/main.5272b649.chunk.js"
   ]
 }
