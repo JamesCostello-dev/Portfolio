@@ -17,7 +17,7 @@ Reactjs, React-bootstrap, React-Icons, HTML, CSS, Javascript/JSX
 
 ## Deployed Application
 
-[Deployed Link](https://jamescostello-dev.github.io/expert-train/)
+[Deployed Link](https://jamescostello-dev.github.io/Portfolio/)
 
 ## Media
 
