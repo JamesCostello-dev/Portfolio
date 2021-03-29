@@ -15,7 +15,7 @@ const Portfolio = () => {
     <div>
       <div className="card-container">
         <div className="card-div">
-          <h1>Photo Portfolio</h1>
+          <h1>Movie Search</h1>
           <Card>
             <Card.Img variant="left" src={movieImage} />
             <Card.Body className="port-body">
