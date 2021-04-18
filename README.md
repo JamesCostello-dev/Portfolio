@@ -31,7 +31,7 @@ HTML, CSS, and React
 
 ## Deployed Application
 
-[Deploy](https://jamescostello-dev.github.io/Portfolio/)
+[View Portfolio](https://jamescostello-dev.github.io/Portfolio/)
 
 ## Media
 
