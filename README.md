@@ -2,7 +2,7 @@
 
 ## Description
 
-Portfolio SPA using React.js
+This application was an exercise in developing single page applications using React.
 
 ## Table of Contents:
 
@@ -14,6 +14,15 @@ Portfolio SPA using React.js
 ## Tech
 
 Reactjs, React-bootstrap, React-Icons, HTML, CSS, Javascript/JSX
+
+## Install
+
+`open terminal
+git clone git@github.com:JamesCostello-dev/Portfolio.git
+cd Portfolio
+npm install
+npm start
+`
 
 ## Deployed Application
 
