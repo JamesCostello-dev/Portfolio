@@ -13,7 +13,7 @@ This application was an exercise in developing single page applications using Re
 
 ## Tech
 
-Reactjs, React-bootstrap, React-Icons, HTML, CSS, Javascript/JSX
+HTML, CSS, and React
 
 ## Install
 
