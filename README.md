@@ -7,7 +7,8 @@ This application was an exercise in developing single page applications using Re
 ## Table of Contents:
 
 - [Description](#description)
-- [Built With](#built-with)
+- [Tech](#tech)
+- [Instal](#install)
 - [Deployed](#repository)
 - [License](#license)
 
