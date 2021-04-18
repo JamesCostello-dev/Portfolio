@@ -9,7 +9,7 @@ This application was an exercise in developing single page applications using Re
 - [Description](#description)
 - [Tech](#tech)
 - [Install](#install)
-- [Deployed Application](#app)
+- [Application](#app)
 - [License](#license)
 
 ## Tech
@@ -31,7 +31,7 @@ HTML, CSS, and React
 
 ## Deployed Application
 
-[Deployed Application](https://jamescostello-dev.github.io/Portfolio/)
+[Application](https://jamescostello-dev.github.io/Portfolio/)
 
 ## Media
 
