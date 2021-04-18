@@ -18,10 +18,14 @@ Reactjs, React-bootstrap, React-Icons, HTML, CSS, Javascript/JSX
 ## Install
 
 `
-open terminal \n
-git clone git@github.com:JamesCostello-dev/Portfolio.git \n
-cd Portfolio \n
-npm install \n
+open terminal
+
+git clone git@github.com:JamesCostello-dev/Portfolio.git
+
+cd Portfolio
+
+npm install
+
 npm start
 `
 
