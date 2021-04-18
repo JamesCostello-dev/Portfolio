@@ -17,7 +17,7 @@ Reactjs, React-bootstrap, React-Icons, HTML, CSS, Javascript/JSX
 
 ## Install
 
-``open terminal`
+`open terminal`
 
 `git clone git@github.com:JamesCostello-dev/Portfolio.git`
 
@@ -25,7 +25,7 @@ Reactjs, React-bootstrap, React-Icons, HTML, CSS, Javascript/JSX
 
 `npm install`
 
-`npm start` `
+`npm start`
 
 
 ## Deployed Application
