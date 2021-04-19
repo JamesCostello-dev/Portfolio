@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import { validateEmail } from "../../../utils/index";
+import emailjs from 'emailjs-com';
 
 const Contact = () => {
   const [formState, setFormState] = useState({
@@ -36,10 +37,21 @@ const Contact = () => {
     console.log(formState);
   };
 
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+  emailjs.sendForm('service_c1s53nk', 'template_qt0e47b', e.target, 'user_idrS1RLZVGAjL0W9AeyBm')
+  .then((result) => {
+      console.log(result.text);
+  }, (error) => {
+      console.log(error.text);
+  });
+}
+
   return (
     <div>
       <h1>Contact Me</h1>
-      <Form onSubmit={handleSubmit}>
+      <Form onSubmit={handleSubmit && sendEmail}>
         <div>
           <label className="form-text">Full Name</label>
           <input
@@ -79,6 +91,9 @@ const Contact = () => {
           <Button type="submit" size="lg">
             Send
           </Button>
+		<div className="email">
+		<h6>Email me directly at <a href='mailto: jcotab@gmail.com'>jcotab@gmail.com</a></h6>
+		</div>
         </div>
       </Form>
     </div>

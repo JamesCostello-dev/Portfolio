@@ -7,7 +7,7 @@ import Resume from "../../Pages/Resume";
 import Footer from "../../Margin/Footer";
 
 const Header = () => {
-  const [currentPage, handlePageChange] = useState("About");
+  const [currentPage, handlePageChange] = useState("About/");
 
   const renderPage = () => {
     switch (currentPage) {
