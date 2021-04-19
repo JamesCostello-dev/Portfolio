@@ -8,7 +8,7 @@ const Nav = (props) => {
       {pages.map((page) => (
         <li className="nav-item" key={page}>
           <a
-            href={"/#" + page.toLowerCase()}
+            href={"#" + page.toLowerCase()}
             onClick={() => props.handlePageChange(page)}
             className={
               props.currentPage === page ? "nav-link active" : "nav-link"
