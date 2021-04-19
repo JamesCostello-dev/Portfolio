@@ -14,7 +14,10 @@ This application was an exercise in developing single page applications using Re
 
 ## Tech
 
-HTML, CSS, and React
+* HTML
+* CSS
+* JavaScript
+* React
 
 ## Install
 
@@ -27,7 +30,6 @@ HTML, CSS, and React
 `npm install`
 
 `npm start`
-
 
 ## Deployed Application
 
