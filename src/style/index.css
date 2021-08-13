@@ -224,6 +224,11 @@ div.download {
   justify-content: center;
 }
 
+div.email {
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 908px) {
   header {
     display: block;

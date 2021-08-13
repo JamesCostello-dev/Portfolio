@@ -2,22 +2,38 @@
 
 ## Description
 
-Portfolio SPA using React.js
+This application was an exercise in developing single page applications using React.
 
 ## Table of Contents:
 
 - [Description](#description)
-- [Built With](#built-with)
-- [Deployed](#repository)
+- [Tech](#tech)
+- [Install](#install)
+- [Deployed Application](#deployed-application)
 - [License](#license)
 
 ## Tech
 
-Reactjs, React-bootstrap, React-Icons, HTML, CSS, Javascript/JSX
+* HTML
+* CSS
+* JavaScript
+* React
+
+## Install
+
+`open terminal`
+
+`git clone git@github.com:JamesCostello-dev/Portfolio.git`
+
+`cd Portfolio`
+
+`npm install`
+
+`npm start`
 
 ## Deployed Application
 
-[Deployed Link](https://jamescostello-dev.github.io/Portfolio/)
+[View Portfolio](https://JamesCostello-dev.github.io/Portfolio/)
 
 ## Media
 

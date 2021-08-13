@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/Portfolio/static/css/main.258cd93c.chunk.css",
     "main.js": "/Portfolio/static/js/main.b88ca5a7.chunk.js",
     "main.js.map": "/Portfolio/static/js/main.b88ca5a7.chunk.js.map",
@@ -9,11 +10,22 @@
     "static/js/2.9dc5541a.chunk.js.map": "/Portfolio/static/js/2.9dc5541a.chunk.js.map",
     "static/js/3.81dd3281.chunk.js": "/Portfolio/static/js/3.81dd3281.chunk.js",
     "static/js/3.81dd3281.chunk.js.map": "/Portfolio/static/js/3.81dd3281.chunk.js.map",
+=======
+    "main.css": "/Portfolio/static/css/main.cf0ca611.chunk.css",
+    "main.js": "/Portfolio/static/js/main.db48cdeb.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.db48cdeb.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.fbe2d442.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.fbe2d442.js.map",
+    "static/js/2.1154bb77.chunk.js": "/Portfolio/static/js/2.1154bb77.chunk.js",
+    "static/js/2.1154bb77.chunk.js.map": "/Portfolio/static/js/2.1154bb77.chunk.js.map",
+    "static/js/3.94089c24.chunk.js": "/Portfolio/static/js/3.94089c24.chunk.js",
+    "static/js/3.94089c24.chunk.js.map": "/Portfolio/static/js/3.94089c24.chunk.js.map",
+>>>>>>> e25dbd9aa5ba6b434074a40ff2e805c21a9c8284
     "index.html": "/Portfolio/index.html",
     "service-worker.js": "/Portfolio/service-worker.js",
     "service-worker.js.map": "/Portfolio/service-worker.js.map",
-    "static/css/main.258cd93c.chunk.css.map": "/Portfolio/static/css/main.258cd93c.chunk.css.map",
-    "static/js/2.9dc5541a.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9dc5541a.chunk.js.LICENSE.txt",
+    "static/css/main.cf0ca611.chunk.css.map": "/Portfolio/static/css/main.cf0ca611.chunk.css.map",
+    "static/js/2.1154bb77.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1154bb77.chunk.js.LICENSE.txt",
     "static/media/aws.png": "/Portfolio/static/media/aws.689c5c0f.png",
     "static/media/book-search.png": "/Portfolio/static/media/book-search.005e1e65.png",
     "static/media/budget-tracker.png": "/Portfolio/static/media/budget-tracker.c715d754.png",
@@ -23,9 +35,16 @@
     "static/media/work-day-scheduler.png": "/Portfolio/static/media/work-day-scheduler.93f2cef8.png"
   },
   "entrypoints": [
+<<<<<<< HEAD
     "static/js/runtime-main.7518e570.js",
     "static/js/2.9dc5541a.chunk.js",
     "static/css/main.258cd93c.chunk.css",
     "static/js/main.b88ca5a7.chunk.js"
+=======
+    "static/js/runtime-main.fbe2d442.js",
+    "static/js/2.1154bb77.chunk.js",
+    "static/css/main.cf0ca611.chunk.css",
+    "static/js/main.db48cdeb.chunk.js"
+>>>>>>> e25dbd9aa5ba6b434074a40ff2e805c21a9c8284
   ]
 }

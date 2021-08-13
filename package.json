@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://JamesCostello-dev.github.io/",
+=======
+  "homepage": "https://JamesCostello-dev.github.io/Portfolio/",
+>>>>>>> e25dbd9aa5ba6b434074a40ff2e805c21a9c8284
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
