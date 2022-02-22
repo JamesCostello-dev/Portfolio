@@ -1,31 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.cf0ca611.chunk.css",
-    "main.js": "/Portfolio/static/js/main.00c36fe8.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.00c36fe8.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.fbe2d442.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.fbe2d442.js.map",
-    "static/js/2.1154bb77.chunk.js": "/Portfolio/static/js/2.1154bb77.chunk.js",
-    "static/js/2.1154bb77.chunk.js.map": "/Portfolio/static/js/2.1154bb77.chunk.js.map",
-    "static/js/3.94089c24.chunk.js": "/Portfolio/static/js/3.94089c24.chunk.js",
-    "static/js/3.94089c24.chunk.js.map": "/Portfolio/static/js/3.94089c24.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "service-worker.js": "/Portfolio/service-worker.js",
-    "service-worker.js.map": "/Portfolio/service-worker.js.map",
-    "static/css/main.cf0ca611.chunk.css.map": "/Portfolio/static/css/main.cf0ca611.chunk.css.map",
-    "static/js/2.1154bb77.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1154bb77.chunk.js.LICENSE.txt",
-    "static/media/aws.png": "/Portfolio/static/media/aws.689c5c0f.png",
-    "static/media/book-search.png": "/Portfolio/static/media/book-search.005e1e65.png",
-    "static/media/budget-tracker.png": "/Portfolio/static/media/budget-tracker.c715d754.png",
-    "static/media/git-it-done.png": "/Portfolio/static/media/git-it-done.a2a0b3dd.png",
-    "static/media/redux-store.png": "/Portfolio/static/media/redux-store.04f0bf5f.png",
-    "static/media/resume.pdf": "/Portfolio/static/media/resume.db5bbb8b.pdf",
-    "static/media/work-day-scheduler.png": "/Portfolio/static/media/work-day-scheduler.93f2cef8.png"
+    "main.css": "/static/css/main.e4500c9c.css",
+    "main.js": "/static/js/main.38bb83be.js",
+    "static/js/377.2bf5b29e.chunk.js": "/static/js/377.2bf5b29e.chunk.js",
+    "static/media/book-search.png": "/static/media/book-search.005e1e657e167a046b8b.png",
+    "static/media/resume.pdf": "/static/media/resume.db5bbb8b0065f9353b45.pdf",
+    "static/media/redux-store.png": "/static/media/redux-store.04f0bf5f437fb430730c.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/git-it-done.png": "/static/media/git-it-done.a2a0b3dde37fb4b491c8.png",
+    "static/media/budget-tracker.png": "/static/media/budget-tracker.c715d754c984553948f9.png",
+    "static/media/aws.png": "/static/media/aws.689c5c0f33b9712bee33.png",
+    "static/media/work-day-scheduler.png": "/static/media/work-day-scheduler.93f2cef808f00671ba12.png",
+    "index.html": "/index.html",
+    "main.e4500c9c.css.map": "/static/css/main.e4500c9c.css.map",
+    "main.38bb83be.js.map": "/static/js/main.38bb83be.js.map",
+    "377.2bf5b29e.chunk.js.map": "/static/js/377.2bf5b29e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fbe2d442.js",
-    "static/js/2.1154bb77.chunk.js",
-    "static/css/main.cf0ca611.chunk.css",
-    "static/js/main.00c36fe8.chunk.js"
+    "static/css/main.e4500c9c.css",
+    "static/js/main.38bb83be.js"
   ]
 }
