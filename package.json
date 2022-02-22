@@ -1,13 +1,10 @@
 {
-<<<<<<< HEAD
   "homepage": "https://JamesCostello-dev.github.io/",
-=======
-  "homepage": "https://JamesCostello-dev.github.io/Portfolio/",
->>>>>>> e25dbd9aa5ba6b434074a40ff2e805c21a9c8284
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emailjs/browser": "^3.4.0",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.3",
@@ -18,7 +15,7 @@
     "react-bootstrap": "^1.5.0",
     "react-dom": "^17.0.1",
     "react-icons": "^4.2.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.0",
     "web-vitals": "^0.2.4",
     "workbox-background-sync": "^5.1.4",
     "workbox-broadcast-update": "^5.1.4",

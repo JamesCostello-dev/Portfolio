@@ -2,11 +2,7 @@ import React, { useState } from "react";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import { validateEmail } from "../../../utils/index";
-<<<<<<< HEAD
-// import emailjs from 'emailjs-com';
-=======
-import emailjs from 'emailjs-com';
->>>>>>> e25dbd9aa5ba6b434074a40ff2e805c21a9c8284
+import emailjs from '@emailjs/browser'; 
 
 const Contact = () => {
   const [formState, setFormState] = useState({
@@ -56,7 +52,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-  emailjs.sendForm('service_c1s53nk', 'template_qt0e47b', e.target, 'user_idrS1RLZVGAjL0W9AeyBm')
+  emailjs.sendForm('service_z7hkgl1', 'template_qt0e47b', e.target, 'user_idrS1RLZVGAjL0W9AeyBm')
   .then((result) => {
       console.log(result.text);
   }, (error) => {
