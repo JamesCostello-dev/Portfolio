@@ -33,7 +33,7 @@ This application was an exercise in developing single page applications using Re
 
 ## Deployed Application
 
-[View Portfolio](https://JamesCostello-dev.github.io/)
+[View Portfolio](https://JamesCostello-dev.github.io/Portfolio/)
 
 ## Media
 
