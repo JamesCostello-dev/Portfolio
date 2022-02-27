@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Nav from "../Nav";
 import About from "../../Pages/About";
-import Portfolio from "../../Pages/Portfolio";
+import Projects from "../../Pages/Projects";
 import Contact from "../../Pages/Contact";
 import Resume from "../../Pages/Resume";
 import Footer from "../../Margin/Footer";
@@ -13,8 +13,8 @@ const Header = () => {
     switch (currentPage) {
       case "About":
         return <About />;
-      case "Portfolio":
-        return <Portfolio />;
+      case "Projects":
+        return <Projects />;
       case "Contact":
         return <Contact />;
       case "Resume":

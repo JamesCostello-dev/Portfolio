@@ -1,50 +1,23 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/Portfolio/static/css/main.258cd93c.chunk.css",
-    "main.js": "/Portfolio/static/js/main.b88ca5a7.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.b88ca5a7.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.7518e570.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.7518e570.js.map",
-    "static/js/2.9dc5541a.chunk.js": "/Portfolio/static/js/2.9dc5541a.chunk.js",
-    "static/js/2.9dc5541a.chunk.js.map": "/Portfolio/static/js/2.9dc5541a.chunk.js.map",
-    "static/js/3.81dd3281.chunk.js": "/Portfolio/static/js/3.81dd3281.chunk.js",
-    "static/js/3.81dd3281.chunk.js.map": "/Portfolio/static/js/3.81dd3281.chunk.js.map",
-=======
-    "main.css": "/Portfolio/static/css/main.cf0ca611.chunk.css",
-    "main.js": "/Portfolio/static/js/main.db48cdeb.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.db48cdeb.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.fbe2d442.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.fbe2d442.js.map",
-    "static/js/2.1154bb77.chunk.js": "/Portfolio/static/js/2.1154bb77.chunk.js",
-    "static/js/2.1154bb77.chunk.js.map": "/Portfolio/static/js/2.1154bb77.chunk.js.map",
-    "static/js/3.94089c24.chunk.js": "/Portfolio/static/js/3.94089c24.chunk.js",
-    "static/js/3.94089c24.chunk.js.map": "/Portfolio/static/js/3.94089c24.chunk.js.map",
->>>>>>> e25dbd9aa5ba6b434074a40ff2e805c21a9c8284
-    "index.html": "/Portfolio/index.html",
+    "main.css": "/Portfolio/static/css/main.e4500c9c.css",
+    "main.js": "/Portfolio/static/js/main.62cb901b.js",
+    "static/js/377.2bf5b29e.chunk.js": "/Portfolio/static/js/377.2bf5b29e.chunk.js",
+    "static/media/book-search.png": "/Portfolio/static/media/book-search.f429787e1a7422658069.png",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.db5bbb8b0065f9353b45.pdf",
+    "static/media/redux-store.png": "/Portfolio/static/media/redux-store.932226f8e17d725b8437.png",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "service-worker.js.map": "/Portfolio/service-worker.js.map",
-    "static/css/main.cf0ca611.chunk.css.map": "/Portfolio/static/css/main.cf0ca611.chunk.css.map",
-    "static/js/2.1154bb77.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1154bb77.chunk.js.LICENSE.txt",
-    "static/media/aws.png": "/Portfolio/static/media/aws.689c5c0f.png",
-    "static/media/book-search.png": "/Portfolio/static/media/book-search.005e1e65.png",
-    "static/media/budget-tracker.png": "/Portfolio/static/media/budget-tracker.c715d754.png",
-    "static/media/git-it-done.png": "/Portfolio/static/media/git-it-done.a2a0b3dd.png",
-    "static/media/redux-store.png": "/Portfolio/static/media/redux-store.04f0bf5f.png",
-    "static/media/resume.pdf": "/Portfolio/static/media/resume.c43536ee.pdf",
-    "static/media/work-day-scheduler.png": "/Portfolio/static/media/work-day-scheduler.93f2cef8.png"
+    "static/media/SimpleFileManager.png": "/Portfolio/static/media/SimpleFileManager.3805a8f3e9c15b673a4d.png",
+    "static/media/git-it-done.png": "/Portfolio/static/media/git-it-done.2a653b3d003163fdb4a1.png",
+    "static/media/budget-tracker.png": "/Portfolio/static/media/budget-tracker.91bbf8a2f4b388a21740.png",
+    "static/media/work-day-scheduler.png": "/Portfolio/static/media/work-day-scheduler.b14dc0d0ac48c94fb434.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e4500c9c.css.map": "/Portfolio/static/css/main.e4500c9c.css.map",
+    "main.62cb901b.js.map": "/Portfolio/static/js/main.62cb901b.js.map",
+    "377.2bf5b29e.chunk.js.map": "/Portfolio/static/js/377.2bf5b29e.chunk.js.map"
   },
   "entrypoints": [
-<<<<<<< HEAD
-    "static/js/runtime-main.7518e570.js",
-    "static/js/2.9dc5541a.chunk.js",
-    "static/css/main.258cd93c.chunk.css",
-    "static/js/main.b88ca5a7.chunk.js"
-=======
-    "static/js/runtime-main.fbe2d442.js",
-    "static/js/2.1154bb77.chunk.js",
-    "static/css/main.cf0ca611.chunk.css",
-    "static/js/main.db48cdeb.chunk.js"
->>>>>>> e25dbd9aa5ba6b434074a40ff2e805c21a9c8284
+    "static/css/main.e4500c9c.css",
+    "static/js/main.62cb901b.js"
   ]
 }
