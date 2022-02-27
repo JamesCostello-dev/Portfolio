@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4500c9c.css",
-    "main.js": "/static/js/main.f5994c2b.js",
-    "static/js/377.2bf5b29e.chunk.js": "/static/js/377.2bf5b29e.chunk.js",
-    "static/media/book-search.png": "/static/media/book-search.f429787e1a7422658069.png",
-    "static/media/resume.pdf": "/static/media/resume.db5bbb8b0065f9353b45.pdf",
-    "static/media/redux-store.png": "/static/media/redux-store.932226f8e17d725b8437.png",
-    "service-worker.js": "/service-worker.js",
-    "static/media/SimpleFileManager.png": "/static/media/SimpleFileManager.3805a8f3e9c15b673a4d.png",
-    "static/media/git-it-done.png": "/static/media/git-it-done.2a653b3d003163fdb4a1.png",
-    "static/media/budget-tracker.png": "/static/media/budget-tracker.91bbf8a2f4b388a21740.png",
-    "static/media/work-day-scheduler.png": "/static/media/work-day-scheduler.b14dc0d0ac48c94fb434.png",
-    "index.html": "/index.html",
-    "main.e4500c9c.css.map": "/static/css/main.e4500c9c.css.map",
-    "main.f5994c2b.js.map": "/static/js/main.f5994c2b.js.map",
-    "377.2bf5b29e.chunk.js.map": "/static/js/377.2bf5b29e.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.e4500c9c.css",
+    "main.js": "/Portfolio/static/js/main.62cb901b.js",
+    "static/js/377.2bf5b29e.chunk.js": "/Portfolio/static/js/377.2bf5b29e.chunk.js",
+    "static/media/book-search.png": "/Portfolio/static/media/book-search.f429787e1a7422658069.png",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.db5bbb8b0065f9353b45.pdf",
+    "static/media/redux-store.png": "/Portfolio/static/media/redux-store.932226f8e17d725b8437.png",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/media/SimpleFileManager.png": "/Portfolio/static/media/SimpleFileManager.3805a8f3e9c15b673a4d.png",
+    "static/media/git-it-done.png": "/Portfolio/static/media/git-it-done.2a653b3d003163fdb4a1.png",
+    "static/media/budget-tracker.png": "/Portfolio/static/media/budget-tracker.91bbf8a2f4b388a21740.png",
+    "static/media/work-day-scheduler.png": "/Portfolio/static/media/work-day-scheduler.b14dc0d0ac48c94fb434.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e4500c9c.css.map": "/Portfolio/static/css/main.e4500c9c.css.map",
+    "main.62cb901b.js.map": "/Portfolio/static/js/main.62cb901b.js.map",
+    "377.2bf5b29e.chunk.js.map": "/Portfolio/static/js/377.2bf5b29e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4500c9c.css",
-    "static/js/main.f5994c2b.js"
+    "static/js/main.62cb901b.js"
   ]
 }
